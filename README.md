@@ -88,7 +88,7 @@
 
 <div align="center">
   <a href="https://github.com/AnkitDeoOfficial/C-Programming-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitdeoofficial&repo=YOUR_REPO_NAME&theme=radical&show_owner=true" alt="Top Contributed Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitDeoOfficial&repo=C-Programming-Learning&theme=radical&show_owner=true" alt="Top Contributed Repo" />
   </a>
 </div>
 
